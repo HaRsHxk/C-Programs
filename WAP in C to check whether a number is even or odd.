@@ -2,12 +2,8 @@
 
 int main() {
     int num;
-     printf("HARSH KUMAR\n");
-     printf("1/22/FET/BCS/133\n");
-     printf("SECTION-D1\n\n");
-
-    printf("Enter an integer: ");
-    scanf("%d", &num);
+     printf("Enter an integer: ");
+     scanf("%d", &num);
     
     if(num % 2 == 0) {
         printf("%d is even.", num);
