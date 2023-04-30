@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main() {
+   int num1, num2;
+     printf("HARSH KUMAR\n");
+     printf("1/22/FET/BCS/133\n");
+     printf("SECTION-D1\n\n");
+   printf("Enter first number: ");
+   scanf("%d", &num1);
+
+   printf("Enter second number: ");
+   scanf("%d", &num2);
+
+   if (num1 > num2) {
+      printf("%d is the maximum number\n", num1);
+   } else {
+      printf("%d is the maximum number\n", num2);
+   }
+
+   return 0;
+}
