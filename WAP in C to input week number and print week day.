@@ -2,10 +2,6 @@
 
 int main() {
     int week;
-     printf("HARSH KUMAR\n");
-     printf("1/22/FET/BCS/133\n");
-     printf("SECTION-D1\n\n");
-
     printf("Enter week number (1-7): ");
     scanf("%d", &week);
 
