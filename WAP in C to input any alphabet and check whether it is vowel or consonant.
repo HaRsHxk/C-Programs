@@ -2,12 +2,8 @@
 
 int main() {
   char ch;
-     printf("HARSH KUMAR\n");
-     printf("1/22/FET/BCS/133\n");
-     printf("SECTION-D1\n\n");
-
-  printf("Enter an alphabet: ");
-  scanf("%c", &ch);
+     printf("Enter an alphabet: ");
+     scanf("%c", &ch);
 
   if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
       ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
