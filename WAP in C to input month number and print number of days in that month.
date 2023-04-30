@@ -2,12 +2,8 @@
 
 int main() {
     int month;
-     printf("HARSH KUMAR\n");
-     printf("1/22/FET/BCS/133\n");
-     printf("SECTION-D1\n\n");
-
-    printf("Enter the month number: ");
-    scanf("%d", &month);
+     printf("Enter the month number: ");
+     scanf("%d", &month);
 
     switch(month) {
         case 1:
