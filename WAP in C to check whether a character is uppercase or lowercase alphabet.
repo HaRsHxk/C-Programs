@@ -2,10 +2,6 @@
 
 int main() {
     char c;
-     printf("HARSH KUMAR\n");
-     printf("1/22/FET/BCS/133\n");
-     printf("SECTION-D1\n\n");
-
     printf("Enter a character: ");
     scanf("%c", &c);
 
